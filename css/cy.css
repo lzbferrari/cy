@@ -1,0 +1,63 @@
+body{
+    background-color: #A90000;
+    font-family: "Lobster";
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+#main_div {
+    width: 100%;
+    height: 100%;
+}
+
+#days_div {
+    padding-top: 6%;
+    width: 100%;
+    height: 40%;
+    text-align: center;
+}
+
+#days_div #days {
+    font-size: 100px;
+    color: #FAEEB2;
+}
+
+#days_div #day {
+    color: #FAEEB2;
+    font-size: 256px;
+}
+
+#line_div {
+    width: 100%;
+    height: 5%;
+}
+
+#hour_div {
+    width: 100%;
+    height: 20%;
+    text-align: center;
+}
+
+#hour_div #hour {
+    font-size: 40px;
+    color: #FAEEB2;
+}
+
+#l_div {
+    padding-bottom: 2%;
+    width: 100%;
+    height: 15%;
+    text-align: center;
+    color: #E46A1D;
+}
+
+#l_div .lzb{
+    font-size: 30px;
+    font-style: italic;
+}
+
+#l_div .love {
+    font-style: italic;
+    font-size: 36px;
+}
